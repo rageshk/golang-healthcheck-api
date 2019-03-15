@@ -1,1 +1,1 @@
-# rest-api-healthcheck
+# golang-healthcheck-api
